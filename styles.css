@@ -1,0 +1,12 @@
+*{
+	background-color: #fff;
+}
+.game-box {
+    text-align:center;
+
+}
+.game-info {
+	margin-left: 100px;
+    line-height:40px;
+    color: #000;
+}
